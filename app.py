@@ -178,6 +178,7 @@ user_options = {
     "o": book_rating_change,
     "d": delete_book,
     "s": save_to_file,
+    "q": save_to_file_and_quit,
 }
 
 
